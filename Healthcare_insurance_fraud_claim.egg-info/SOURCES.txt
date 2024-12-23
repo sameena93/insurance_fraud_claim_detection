@@ -1,0 +1,13 @@
+README.md
+setup.py
+Healthcare_insurance_fraud_claim.egg-info/PKG-INFO
+Healthcare_insurance_fraud_claim.egg-info/SOURCES.txt
+Healthcare_insurance_fraud_claim.egg-info/dependency_links.txt
+Healthcare_insurance_fraud_claim.egg-info/requires.txt
+Healthcare_insurance_fraud_claim.egg-info/top_level.txt
+src/__init__.py
+src/components/__init__.py
+src/components/data_ingestion.py
+src/components/data_model.py
+src/logging/__init__.py
+src/pipeline/__init__.py

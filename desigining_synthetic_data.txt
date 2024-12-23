@@ -1,0 +1,9 @@
+## Designing the Synthetic Data
+
+
+Feature Type	                                Features
+1. Claim Details	            Claim ID, Claim Amount, Procedure Code, Service Date, Claim Status
+2. Patient Information	        Patient ID, Age, Gender, Location, Medical History, Insurance Plan Type
+3. Provider Information	        Provider ID, Specialization, Location, Reputation Score
+4. Financial Metrics	        Payment Method, Time Between Claims, Cost Deviation
+5. Fraud Indicators	            Fraudulent (binary label), Suspicious Timing, Duplicate Claims

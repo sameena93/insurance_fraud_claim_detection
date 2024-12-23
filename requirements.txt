@@ -1,0 +1,9 @@
+ipykernel
+pandas
+faker
+matplotlib
+seaborn
+numpy
+scikit-learn
+
+# -e .

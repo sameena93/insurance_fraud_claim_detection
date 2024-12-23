@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: Healthcare_insurance_fraud_claim
+Version: 0.0.1
+Author: Sameena
+Author-email: sameena93@gmail.com
+Requires-Dist: ipykernel
+Requires-Dist: pandas
+Requires-Dist: faker
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: numpy
+Requires-Dist: scikit-learn

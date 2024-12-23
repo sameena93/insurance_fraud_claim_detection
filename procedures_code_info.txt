@@ -1,0 +1,27 @@
+Category	
+
+Procedure Code	Description
+Emergency	
+99281	Emergency department visit for the evaluation and management of a patient (low severity).
+99282	Emergency department visit for evaluation and management of a patient (low to moderate severity).
+99283	Emergency department visit for evaluation and management of a patient (moderate severity).
+99284	Emergency department visit for evaluation and management of a patient (high severity).
+99285	Emergency department visit for evaluation and management of a patient (highest severity).
+
+
+Non-Emergency	
+99381	Initial comprehensive preventive medicine, typically for patients aged 18-39 years.
+99382	Comprehensive preventive medicine for patients aged 40-64 years.
+99383	Comprehensive preventive medicine for patients aged 5-11 years.
+99384	Comprehensive preventive medicine for patients aged 12-17 years.
+99385	Comprehensive preventive medicine for patients aged 65+ years.
+11042	Debridement of wound (non-emergency, minor procedures).
+12001	Simple repair of superficial wounds (non-emergency).
+45378	Colonoscopy with biopsy (non-emergency, diagnostic procedure).
+93000	Electrocardiogram (non-emergency diagnostic test).
+12051	Complex repair of wounds (non-emergency).
+43235	Upper gastrointestinal endoscopy (non-emergency diagnostic procedure).
+10060	Incision and drainage of abscess (non-emergency procedure).
+11730	Removal of nail (non-emergency procedure).
+72148	X-ray of the lumbar spine (non-emergency diagnostic test).
+71020	Chest X-ray (non-emergency diagnostic test).
