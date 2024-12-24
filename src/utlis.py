@@ -6,9 +6,9 @@ from datetime import datetime, timedelta
 #initialize the faker
 fake = Faker()
 
-# dataset record and set 10%  fraud probabilty
+# dataset record and set 30%  fraud probabilty
 num_records = 5000
-fraud_probabilty = 0.1 
+fraud_probabilty = 0.3 
 
 procedure_code_cost_map = {
         '99281': (10000, 20000),
