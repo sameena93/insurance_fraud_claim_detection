@@ -1,6 +1,8 @@
 # Fraud Detection for Healthcare Insurance Claim
 
-![Click to Explore End to End Project](https://insurancefraudclaimdetection.streamlit.app/)(https://insurancefraudclaimdetection.streamlit.app/)
+![Click to Explore End to End Project](https://insurancefraudclaimdetection.streamlit.app/)
+
+(https://insurancefraudclaimdetection.streamlit.app/)
 
 ### *Problem:* 
 * Healthcare insurance fraud leads to billions in losses annually. It aims to reduce losses due to fraud while ensuring legitimate claims are processed efficiently
