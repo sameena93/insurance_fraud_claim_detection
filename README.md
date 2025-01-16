@@ -32,3 +32,6 @@
 
 ## 2. Claim Amount Distribution(KDE)
 ![Kde](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/CLaim_amount_distibution(KDE).png)
+
+## 3.  Response Variable Class
+![fraud_imbalnce](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/Fraudulent_class_imbalance.png)
