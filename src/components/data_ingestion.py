@@ -83,7 +83,7 @@ def preprocess_input_data(df):
 
     logging.info('Preprocessing data started.....')
     # define categorical and numerical columns
-    categorical_columns = ['High_Claims','Suspicious_Timing', 'Specializion']
+    categorical_columns = ['High_Claims','Suspicious_Timing', 'Specializion','Medical_History']
 
     numerical_columns = ['Claim_Amount','Age','Cost_per_Age','claim_count','avg_gap','Reputation_Score']
 

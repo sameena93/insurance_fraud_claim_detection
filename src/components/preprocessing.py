@@ -8,7 +8,7 @@ def preprocess_input_data(df):
     Feature encoding and scaling for the input data."""
 
     # define categorical and numerical columns
-    categorical_columns = ['High_Claim','Suspicious_Timing', 'Specialization']
+    categorical_columns = ['High_Claim','Suspicious_Timing', 'Specialization', 'Medical_History']
 
     numerical_columns = ['Claim_Amount','Age','Cost_per_Age','claim_count','avg_gap','Reputation_Score']
 
@@ -18,7 +18,7 @@ def preprocess_input_data(df):
     preprocessor = ColumnTransformer(
         transformers=[
             ('num',StandardScaler(), numerical_columns),
-            ('cat',OneHotEncoder(sparse_output=False), categorical_columns)
+            ('cat',OneHotEncoder(sparse_output=False, handle_unknown='ignore'), categorical_columns)
         ]
     )
 
