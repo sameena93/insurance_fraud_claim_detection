@@ -56,16 +56,6 @@
 
 ---
 
-
-# Evaluation Matrix 
-## Before SMOTE
-![before smote](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/Before_SMOTE.png)
-
-## After SMOTE
-![after smote](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/after_SMOTE.png)
-
----
-
 # Precision Recall and ROC AUC Curve 
 #### Logistic Regression Model
 
@@ -76,4 +66,15 @@
 
 #### XGB Model
 ![xgb](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/xgb_eg.png)
+
+
+---
+
+
+# Evaluation Matrix 
+## Before SMOTE
+![before smote](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/Before_SMOTE.png)
+
+## After SMOTE
+![after smote](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/after_SMOTE.png)
 
