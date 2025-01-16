@@ -20,7 +20,20 @@
 
 
 ### Identify Metrics:
-* Accuracy, precision, Recall, F1 Score for the fraud detecion model.
-* Reduction in investigation costs and fraus losses.
+* Accuracy, precision, Recall, F1 Score, ROC_AUC Curve for the fraud detecion model.
 
-## Synthetic Data Used for this Problem
+
+## Dataset 
+* Used Synthetic Data Used for this Problem
+
+###  Methodology
+* Data Cleaning & Exploration
+* Feature Engineering using statistic technique
+* Unspuervised ML- DBSCAN, Isolation Forest
+* Model Building (e.g., XGB, Random Forest, Logistic Regression)
+* Evaluation (F1 score, precision, recall, Type1 error, TypeII error, ROC AUC Curve)
+* Dockerization, CI/CD Pipeline, Git , GitHub , Hugging Face Deployment
+
+---
+# Explanatory Analysis
+
