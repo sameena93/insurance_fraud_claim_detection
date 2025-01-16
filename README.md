@@ -100,5 +100,5 @@ Recall increased significantly (from 0.35 to 0.96), but the drop in precision (f
 Despite this, the F1 score improved from 0.46 to 0.65, showing a net positive impact.
 
 
-
-
+---
+![video](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/video.mp4)
