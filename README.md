@@ -1,28 +1,13 @@
 # Fraud Detection for Healthcare Insurance
 
 ### *Problem:* 
-* Healthcare insurance fraud leads to billions in losses annually.
+* Healthcare insurance fraud leads to billions in losses annually. It aims to reduce losses due to fraud while ensuring legitimate claims are processed efficiently
 * *Fraud Types*:
     * Billing for services not provided.
     * Inflated bills or duplicate claims
     * Flasified patient records
     * Unnecessary procedure or prescriptions.
-
-
-### *Solution*:
-* Build a system using anomaly detection (e.g., DBSCAN, Isolation Forest) and machine learning(e.g, XGB) to identify fraudulent claims and abnormal patterns.
-
-### *Features*:
-* Automatically flag suspicious activities for review.
-* Minimize false positive to avoid unnecessary investigations.
-* Visualize claim trends and deviations.
-* Ensure compliance with data privacy laws.
-
-
-### Identify Metrics:
-* Accuracy, precision, Recall, F1 Score, ROC_AUC Curve for the fraud detecion model.
-
-
+      
 ## Dataset 
 * Used Synthetic Data Used for this Problem
 
@@ -34,6 +19,11 @@
 * Evaluation (F1 score, precision, recall, Type1 error, TypeII error, ROC AUC Curve)
 * Dockerization, CI/CD Pipeline, Git , GitHub , Hugging Face Deployment
 
----
-# Explanatory Analysis
 
+
+
+---
+# Exploratory Data Analysis (EDA)
+
+### 1. Claim Amount Distribution by Claim Status
+![Claim Amount Distribution by Claim Status](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/claim_amount_status.png)
