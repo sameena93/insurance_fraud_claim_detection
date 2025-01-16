@@ -33,6 +33,38 @@
 ## 2. Claim Amount Distribution(KDE)
 ![Kde](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/CLaim_amount_distibution(KDE).png)
 
+---
+
 ## 3.  Response Variable Class
-### Shows Imbalance class- Used SMOTE technique to handle the imbalance class.
+#### Shows Imbalance class- Used SMOTE technique to handle the imbalance class.
 ![fraud_imbalnce](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/Fraudulent_class_imbalance.png)
+
+---
+
+## 4. Correlation Matrix
+![corr](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/Correlation_matrix.png)
+
+--- 
+
+### 5. Payment Method Distibution
+![](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/Payment_method_distribution.png)
+
+---
+
+### 6. Claim Status Distribution 
+![](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/claim_status_distribution.png)
+
+---
+
+
+# Evaluation Matrix 
+## Before Aplyign SMOTE
+![before smote](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/Before_SMOTE.png)
+
+![after smote](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/after_SMOTE.png)
+
+---
+
+
+
+
