@@ -30,14 +30,5 @@
 
 ---
 
-## 2. 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <img src="https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/claim_amount_status.png" alt="Boxplot of Claim Amount" width="400">
-    <p style="text-align: center;"link_to_boxplot.png>Boxplot: Claim Amount by Status</p>
-  </div>
-  <div>
-    <img src="https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/CLaim_amount_distibution(KDE).png" alt="Correlation Heatmap" width="400">
-    <p style="text-align: center;">Correlation Heatmap</p>
-  </div>
-</div>
+## 2. Claim Amount Distribution(KDE)
+![Kde](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/CLaim_amount_distibution(KDE).png)
