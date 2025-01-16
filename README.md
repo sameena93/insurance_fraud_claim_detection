@@ -78,3 +78,27 @@
 ## After SMOTE
 ![after smote](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/after_SMOTE.png)
 
+---
+# Conclusion
+### Impact of SMOTE on Model Performance
+Applying SMOTE (Synthetic Minority Oversampling Technique) significantly enhanced the performance of all models in terms of recall, which is crucial for fraud detection as it ensures fewer fraudulent claims are missed. 
+
+# Key Observations
+1. ***XGB Model:***
+
+Performed the best after SMOTE with a balanced F1 score of 0.78.
+Improved recall (0.77) without a significant drop in precision (0.80), making it the most suitable model for deployment.
+
+2. ***Random Forest Model:***
+
+Achieved the highest recall (0.85) after SMOTE but had a notable drop in precision (0.58).
+The F1 score improved from 0.62 to 0.69, indicating better overall performance post-SMOTE.
+
+3. ***Logistic Regression Model:***
+
+Recall increased significantly (from 0.35 to 0.96), but the drop in precision (from 0.69 to 0.49) resulted in more false positives.
+Despite this, the F1 score improved from 0.46 to 0.65, showing a net positive impact.
+
+
+
+
