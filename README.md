@@ -66,6 +66,14 @@
 
 ---
 
+# Precision Recall and ROC AUC Curve 
+#### Logistic Regression Model
 
+![lr](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/LR_EG.png)
 
+#### Random Forest Model
+![rf](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/random%20forest_eg.png)
+
+#### XGB Model
+![xgb](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/xgb_eg.png)
 
