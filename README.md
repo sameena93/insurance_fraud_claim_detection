@@ -36,7 +36,7 @@
 ---
 
 ## 3.  Response Variable Class
-#### Shows Imbalance class- Used SMOTE technique to handle the imbalance class.
+#### Shows Imbalance class- Used SMOTE (Synthetic Minority Oversampling Technique)  technique to handle the imbalance class.
 ![fraud_imbalnce](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/Fraudulent_class_imbalance.png)
 
 ---
