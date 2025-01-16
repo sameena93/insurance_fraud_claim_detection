@@ -1,4 +1,4 @@
-# Fraud Detection for Healthcare Insurance
+# Fraud Detection for Healthcare Insurance Claim
 
 ### *Problem:* 
 * Healthcare insurance fraud leads to billions in losses annually. It aims to reduce losses due to fraud while ensuring legitimate claims are processed efficiently
