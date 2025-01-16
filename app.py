@@ -7,7 +7,7 @@ from sklearn.preprocessing import StandardScaler, OneHotEncoder
 
 
 def user_input_form():
-    st.title("Fraud Detection of Health Insurance Claim")
+    st.title("Health Insurance Fraud Detection System")
 
     # input fields for numerical colmns
     claim_amount = st.number_input("Claim Amount", min_value=0)
