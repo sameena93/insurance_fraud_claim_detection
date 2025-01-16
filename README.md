@@ -101,4 +101,4 @@ Despite this, the F1 score improved from 0.46 to 0.65, showing a net positive im
 
 
 ---
-![video](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/video.mp4)
+![Watch end to end project video](https://github.com/sameena93/insurance_fraud_claim_detection/blob/main/static/video.mp4)
